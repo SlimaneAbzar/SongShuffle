@@ -1,0 +1,2 @@
+This is a C program that lets users input up to 4 artists and their songs (up to 3 songs per artist). The program sorts the artists and their songs alphabetically, then creates a shuffled playlist where no song repeats within the last 5 songs played.
+To set up, clone the repository, compile the program then run the executable. Follow the prompts to enter the Artists and their songs and evrrything will be done automatically.
